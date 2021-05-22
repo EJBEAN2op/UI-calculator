@@ -58,7 +58,7 @@ body {
 }
 .calculator span {
     display: grid;
-    width: 62px;
+    width: 63px;
     height: 60px;
     color: rgb(10, 9, 9);
     background: #d8e1e6;
@@ -74,7 +74,7 @@ body {
 }
 .calculator span.clear {
     grid-column: span 2;
-    width: 124px;
+    width: 126px;
     background: #ff3077;
 }
 .calculator span.equal {
