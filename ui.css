@@ -61,3 +61,11 @@ body {
     font-size: 30px;
     border: 1px solid rgba(0,0,0,.1);
 }
+
+.footer {
+    position: absolute;
+    bottom: 2%;
+    color: #03b1ff;
+    font-size: 15px;
+    border: 1px solid rgba(0,0,0,.1);
+}
